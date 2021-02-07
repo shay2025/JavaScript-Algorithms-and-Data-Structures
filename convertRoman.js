@@ -1,3 +1,4 @@
+// function that given a decimal number converts it to its roman number 
 function convertToRoman(num) {
 
     // How Roman Numerals work : https://www.mathsisfun.com/roman-numerals.html
