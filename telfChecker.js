@@ -13,4 +13,5 @@ function telephoneCheck(str) {
 
   return allowedFormat.test(str);
 
+  
 }
